@@ -1,6 +1,37 @@
-### Hi there 👋
+
+
+# Siena Loprinzi, MAPP
+## Student, Intercultural and International Communications at American University 
+
+### Skillz 
+
+- Statistics: 
+  - Descriptive Analysis
+  - Regression
+  
+  
+- Software: 
+  - `R/R Studio` 
+  - `git`
+  - `Google Sheets`
+  - `Excel`
+  
+  
+- Data Visualizations
+  - ggplot
+  - patchwork
+  - scales
+  - knitter
+  
+  
+- Data Wrangling
+  - reshaping
+  - merging
+  
+
 
 <!--
+
 **sloprinzi/sloprinzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +44,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
