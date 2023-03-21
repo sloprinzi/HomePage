@@ -3,7 +3,7 @@
 # Siena Loprinzi, MAPP
 ## Student, Intercultural and International Communications at American University 
 
-### Skillz 
+### Skills 
 
 - Statistics: 
   - Descriptive Analysis
@@ -44,5 +44,26 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+# for my github page: 
+
+### An example of my skillz (his words not mine)
+
+Here's some code I wrote in `R`
+
+
+``` 
+mean (x$var1)
+```
+
+Write some text
+
+
+```
+code chunk
+```
+
+
 
 -->
