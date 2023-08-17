@@ -3,10 +3,13 @@
 # Siena Loprinzi, MAPP
 ## Student, Intercultural and International Communications at American University 
 
+- Relevant coursework:
+    - Statistics
+    - Data Analysis
+
 ### Skills 
 
-- Statistics: 
-  - Descriptive Analysis
+- Data Modeling: 
   - Regression
   
   
@@ -21,12 +24,15 @@
   - ggplot
   - patchwork
   - scales
-  - knitter
+  - knitr
+  - table extra
   
   
 - Data Wrangling
   - reshaping
   - merging
+  - appending
+  - cleaning
   
 
 
