@@ -3,6 +3,22 @@
 # Siena Loprinzi, MAPP
 ## Student, Intercultural and International Communications at American University 
 
+
+Welcome to my github! 
+
+
+Shortcuts to my repositories:
+
+
+[`Resume`](https://github.com/sloprinzi/Resume)
+
+
+[`KnitrTables`](https://github.com/sloprinzi/KnitrTables)
+
+
+[`Refugee Presentation`](https://github.com/sloprinzi/PresentationExample)
+
+
 - Relevant coursework:
     - Statistics
     - Data Analysis
