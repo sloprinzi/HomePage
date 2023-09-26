@@ -20,8 +20,8 @@ Shortcuts to my repositories:
 
 
 ### Relevant coursework: ###
-- Statistics
-- Data Analysis
++Statistics
++Data Analysis
 
 
 ### Skills 
