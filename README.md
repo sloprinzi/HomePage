@@ -19,9 +19,10 @@ Shortcuts to my repositories:
 [`Refugee Presentation`](https://github.com/sloprinzi/PresentationExample)
 
 
-- Relevant coursework:
+### Relevant coursework: ###
     - Statistics
     - Data Analysis
+
 
 ### Skills 
 
