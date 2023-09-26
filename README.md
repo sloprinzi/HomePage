@@ -4,7 +4,7 @@
 ## Student, Intercultural and International Communications at American University 
 
 
-Welcome to my github! 
+### Welcome to my github! ###
 
 
 Shortcuts to my repositories:
